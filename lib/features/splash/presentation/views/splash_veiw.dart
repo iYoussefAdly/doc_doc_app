@@ -25,7 +25,7 @@ void initState() {
           Row(
             mainAxisAlignment: MainAxisAlignment.center,
             children: [
-              Image.asset(AssetsData.splashIconImage),
+              Image.asset(AssetsData.splashImage),
               SizedBox(width: 15),
               Image.asset(AssetsData.docDocImage),
             ],

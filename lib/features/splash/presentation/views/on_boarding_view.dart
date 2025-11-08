@@ -22,7 +22,7 @@ class OnBoardingView extends StatelessWidget {
                 Container(
                   height: 38,
                   width: 38,
-                  child: Image.asset(AssetsData.splashIconImage),
+                  child: Image.asset(AssetsData.splashImage),
                 ),
                 SizedBox(width: 15),
                 Container(
